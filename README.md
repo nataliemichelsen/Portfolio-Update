@@ -41,7 +41,6 @@ Browse pages for more information about my coding bootcamp progress.
 ## © **Licence**
 
 There is currently no licence for this app. 
-MIT License. See LICENSE file for more information.
 
 ## 💬 **Contributors**
 
