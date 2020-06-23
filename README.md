@@ -34,7 +34,7 @@ Keep your portfolio up-to-date as the course progresses.
 
 A polished and current portfolio that reflects my progress and personality. 
 
-## **Usage**
+## 🔑 **Usage**
 
 Browse pages for more information about my coding bootcamp progress. 
 
