@@ -38,11 +38,13 @@ body {
         padding-top: 14px;
         font-style: italic;
         font-weight: bold;
+        color: #f7b7d3;
 }
 
 .phone {
         font-style: italic;
         font-weight: bold;
+        color: #f7b7d3;
 }
 
 .instagram {
@@ -208,7 +210,7 @@ body {
         border-width: 4px;
         font-size: 16px;
         color: #333333;
-        margin-left: 100px;
+        margin-left: 104px;
         margin-right: 0px;
         padding: 4px;
 }
@@ -224,6 +226,19 @@ body {
         margin-left: 14px;
         margin-right: 0px;
         padding: 4px;
+}
+
+.img-thumbnail1 {
+       max-width: 400px;
+       max-height: 400px; 
+       align-items: center;
+       margin-left: 70px;
+       margin-right: 70px;
+       margin-bottom: 50px;
+}
+
+.img-thumbnail2 {
+
 }
 
 #portfolio {
