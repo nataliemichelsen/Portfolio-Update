@@ -3,8 +3,8 @@
 ## **Table of Contents**
 
 * Project Description
-* Requirements for Assignment
-* Instructions for Assignment
+* Assignment Instructions
+* Assignment Requirements
 * Project Objective
 * Usage
 * Licence
