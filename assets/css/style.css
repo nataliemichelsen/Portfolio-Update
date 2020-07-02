@@ -228,6 +228,20 @@ body {
         padding: 4px;
 }
 
+.projectButtons3 {
+        align-items: stretch;
+        background-color: #f7b7d3;
+        border: #f7b7d3;
+        border-style: solid;
+        border-width: 4px;
+        font-size: 16px;
+        color: #333333;
+        margin-left: 4px;
+        margin-right: 0px;
+        margin-top: 14px;
+        padding: 4px;
+}
+
 .img-thumbnail1 {
        max-width: 400px;
        max-height: 400px; 
@@ -235,10 +249,13 @@ body {
        margin-left: 70px;
        margin-right: 70px;
        margin-bottom: 50px;
+       padding-bottom: 14px;
 }
 
 .img-thumbnail2 {
-
+        margin-bottom: 14px;
+        max-width: 340px;
+        max-height: 340px; 
 }
 
 #portfolio {
