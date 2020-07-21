@@ -48,7 +48,7 @@ This was a solo project for a UofU Coding Bootcamp, but credit must also be note
 
 ## 🔒 **Installation**
 
-Please do not clone this repo.
+PLEASE DO NOT CLONE THIS REPO.
 
 ## 📂 **Tests**
 
