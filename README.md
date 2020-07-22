@@ -56,4 +56,4 @@ There are currently no tests for this app.
 
 ## **Video of Deployed Application**
 
-![Deployed Application](assets/imgs/working_application.gif)
+![Deployed Application]()
